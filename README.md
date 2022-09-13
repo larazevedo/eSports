@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto é voltado pra área de eSports.
-Nele será possível criar anúncios para conectar pessoas que jogam o mesmo game. E, para isso, iremos utilizar a API da Twitch para nos ajudar a buscar os jogos mais acessados no momento. 💜
+Nele será possível criar anúncios para conectar pessoas que jogam o mesmo game. 💜
 
 ## 🔖 Layout
 
